@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602674776134",
+    "firebase_url": "https://solidvpn-49f26.firebaseio.com",
+    "project_id": "solidvpn-49f26",
+    "storage_bucket": "solidvpn-49f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602674776134:android:863072db7a2dc886c5a247",
+        "android_client_info": {
+          "package_name": "com.solid.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602674776134-oosbpol6sj853h1c66ml5dvq35auol1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YZdlkeXvmfrvRhfLxxuzDCGISbF1T-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602674776134-oosbpol6sj853h1c66ml5dvq35auol1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
